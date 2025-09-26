@@ -25,8 +25,8 @@ print('1004')
 # 3. 논리형
 print(True)
 print(False)
-print("True")
-print("False")
+print("True")   # 문자형
+print("False")  # 문자형
 ######################################
 
 # 1) 상수 Constant
@@ -51,9 +51,9 @@ print(True)
 a = 3
 b = 1.2
 
-print(a)
-print(b)
-print(a+b)
+print(a)    # 3
+print(b)    # 1.2
+print(a+b)  # 4.2
 ######################################
 
 print("-" * 30)
@@ -64,15 +64,15 @@ kor = 80
 eng = 85
 mat = 100
 
-print(name)
-print(kor)
-print(eng)
-print(mat)
+print(name)     # 손흥민
+print(kor)      # 80
+print(eng)      #85
+print(mat)      #100
 
 # 총점 구하기
 total = kor + eng + mat
-print(total)
+print(total)    # 265
 
 # 평균 구하기
 avg = total / 3
-print(avg)
+print(avg)      # 88.33333333333333
