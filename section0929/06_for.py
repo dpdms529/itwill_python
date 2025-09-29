@@ -1,4 +1,6 @@
-# 반복문
+# 반복문 : forans, while문
+# break문, continue문
+# 무한 Loop => 끝이 없는 반복
 
 """
     for 변수 in range(시작값, 종료값-1, 증감) : 
