@@ -64,5 +64,5 @@ is1Or3(2)   # False
 def isKorbetween80and89(kor) :
     print('isKorbetween80and89(%d) : %s' % (kor, 80 <= kor and kor <= 89))
 
-isKorbetween80and89(85)
-isKorbetween80and89(50)
+isKorbetween80and89(85) # True
+isKorbetween80and89(50) # False
