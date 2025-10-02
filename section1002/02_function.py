@@ -68,7 +68,7 @@ ls = [2, 3, 4]
 print(gop(ls[0], ls[1], ls[2]))  # 24
 print(gop(*ls))  # 24
 
-# 주의사항 : list 요소의 갯수와 파라미터의 갯수ㅏㄱ 일치해야 함
+# 주의사항 : list 요소의 갯수와 파라미터의 갯수 일치해야 함
 ls2 = [2, 3, 4, 5]
 # gop(*ls2)   TypeError: gop() takes 3 positional arguments but 4 were given
 
