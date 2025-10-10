@@ -1,4 +1,4 @@
-# pip 명령어 : 파이썬 확장 모듈을 설치, 삭제할 수 잇는 기능 제공
+# pip 명령어 : 파이썬 확장 모듈을 설치, 삭제할 수 있는 기능 제공
 """
 >python --version                        파이선 버전 확인
 >python -m pip install --upgrade pip     pip명령 업그레이드
