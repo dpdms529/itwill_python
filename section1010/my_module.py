@@ -23,3 +23,15 @@ class Member:
     def disp(self):
         style = "이름 : {0} / 이메일 : {1}"
         print(style.format(self.uname, self.email))
+
+
+## 3)
+class Calc:
+    def plus(self, a, b):
+        return a + b
+
+    def minus(self, a, b):
+        return a - b
+
+
+mycalc = Calc()  # 자체적으로 객체를 생성하는 모듈
